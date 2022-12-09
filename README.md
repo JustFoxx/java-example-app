@@ -1,2 +1,2 @@
 # java-example-app
-Template for java project
+Free to use!
