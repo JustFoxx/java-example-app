@@ -25,7 +25,7 @@ To build the app, use the following command:
 
 This will compile the app and create a jar file in the `build/libs` directory. You can run the jar file using the following command:
 
-```java -jar build/libs/java-template-app-<version>-all.jar```
+```java -jar build/libs/example-app-<version>-all.jar```
 
 ## License
 
